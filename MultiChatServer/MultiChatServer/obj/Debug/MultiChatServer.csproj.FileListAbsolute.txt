@@ -1,0 +1,10 @@
+C:\Users\JoshyG\source\repos\MultiChatServer\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\JoshyG\source\repos\MultiChatServer\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\JoshyG\source\repos\MultiChatServer\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\JoshyG\source\repos\MultiChatServer\MultiChatServer\obj\Debug\MultiChatServer.csprojAssemblyReference.cache
+C:\Users\JoshyG\source\repos\MultiChatServer\MultiChatServer\obj\Debug\MultiChatServer.Form1.resources
+C:\Users\JoshyG\source\repos\MultiChatServer\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\JoshyG\source\repos\MultiChatServer\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\JoshyG\source\repos\MultiChatServer\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\JoshyG\source\repos\MultiChatServer\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\JoshyG\source\repos\MultiChatServer\MultiChatServer\obj\Debug\MultiChatServer.pdb
